@@ -1,0 +1,1 @@
+Simple Roslyn-based C# source file plagiarism detector implemented with longest common sub sequence method
